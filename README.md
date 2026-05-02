@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Kuzhali M
 
-<!--
-**kuzhalikuzhali21-collab/kuzhalikuzhali21-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science Engineering (2027)  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- Programming: Python, C, Java (Basics)
+- Web: HTML, CSS, JavaScript (Basics)
+- Database: MySQL
+- Tools: VS Code, MS Office, MS Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+🔹 Emotion-Aware Result System using DeepFace  
+🔹 Quantum-Resistant Encryption using KYBER & RSA
+  
+
+## 🏢 Internship
+- NSIC – Python with AI & Machine Learning  
+
+## 🏆 Achievements
+- Presented Emotion-Aware Result System using DeepFace at National Conference (SIMATS)  
+- Presented Quantum-Resistant Encryption using KYBER & RSA at International Conference (ICIRIST) 2026  
+
+## 🌱 Currently Learning
+- Machine Learning  
+- Web Development  
+
+## 📫 Contact
+📧 kuzhalikuzhali21@gmail.com
